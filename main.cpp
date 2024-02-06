@@ -1,3 +1,4 @@
+//Karla Medrano, 200891709
 // CMPS 3350 - lab 02
 // Prints each command-line argument passed into the program, one per line
 #include <stdio.h>
